@@ -3,7 +3,7 @@
 @section('content')
 
     <h1>タスクリスト一覧</h1>
-
+<!-- <p class="text-center">/tasklists/index.blade.php</p>  -->
     @if (count($tasklists) > 0)
         <table class="table table-striped">
             <thead>

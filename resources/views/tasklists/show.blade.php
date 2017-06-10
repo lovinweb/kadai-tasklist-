@@ -3,7 +3,9 @@
 @section('content')
 
     <h1>id={{ $tasklist->id }} のタスクリスト詳細ページ</h1>
-
+<!-- ================================================ -->
+<p class="text-center">show.blade.php</p>
+<!-- ================================================ -->
 
     <table class="table table-bordered">
         <tr>
